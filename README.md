@@ -1,9 +1,9 @@
 # Wild Rhydes - A Unicorn ride-sharing web service
 
-This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
-<img width="2524" height="1351" alt="image" src="https://github.com/user-attachments/assets/62378019-5177-4289-982b-1d4093efeb32" />
-This is a web application for a unicorn ride-sharing service called Wild Rydes (from the original [Amazon workshop](https://aws.amazon.com/serverless-workshops)).  
 
+<img width="2524" height="1351" alt="image" src="https://github.com/user-attachments/assets/62378019-5177-4289-982b-1d4093efeb32" />
+
+This is a web application for a unicorn ride-sharing service called Wild Rydes (from the original [Amazon workshop](https://aws.amazon.com/serverless-workshops)).  
 The app will let you create an account and log in, then request a ride by clicking on a map recording the location on a NoSQL database
 
 ## AWS Services used

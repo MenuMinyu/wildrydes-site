@@ -17,8 +17,8 @@ API functionality - Lambda, API Gateway
 NOSQL Database - DynamoDB
 
  
-## Video Demo (In progress)
-[![Youtube video]()]()
+## Video Demo (Click image to be redirected)
+[![Youtube video](https://i9.ytimg.com/vi/ucGPeT-KhyA/mqdefault.jpg?sqp=CLTJvtAG&rs=AOn4CLDTqqplKBeV7uxabrjpDqUUV0w9yA)](https://youtu.be/ucGPeT-KhyA)
 
 ## High Level Architecture Diagram (In progress)
 ![Diagram]()
